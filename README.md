@@ -1,2 +1,2 @@
-# MedvajiyZaezd
+# MedvejiyZaezd
 Race game
